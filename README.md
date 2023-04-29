@@ -1,1 +1,1 @@
-# G-schema-host
+"# BO-gschema" 
